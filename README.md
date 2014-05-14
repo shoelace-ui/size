@@ -15,4 +15,4 @@ size 10px
   Test by running: ``` npm install ``` then ``` cd test && stylus < example.styl > example.css && open example.css```
 
 ### License
-  [MIT](./README.md)
+  [MIT](./LICENSE)
