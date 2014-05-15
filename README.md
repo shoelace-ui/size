@@ -12,7 +12,6 @@ size 10px
     width 10px
     height 10px
 ```
-  Test by running: ``` npm install ``` then ``` cd test && stylus < example.styl > example.css && open example.css```
 
 ### License
   [MIT](./LICENSE)

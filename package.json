@@ -21,7 +21,4 @@
     "url": "https://github.com/shoelace-ui/size/issues"
   },
   "homepage": "https://github.com/shoelace-ui/size",
-  "dependencies": {
-    "stylus": "^0.45.0"
-  }
 }
