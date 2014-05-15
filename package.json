@@ -1,5 +1,5 @@
 {
-  "name": "size",
+  "name": "shoelace-ui-size",
   "version": "0.0.1",
   "description": "Opaque stylus size mixin",
   "main": "index.styl",
