@@ -1,4 +1,10 @@
-### Opaque Size Mixin
+### size
+`size` opaque mixin
 
-### License
+## Installation
+```sh
+$ npm install git://github.com/shoelace-ui/size.git
+```
+
+## License
   [MIT](./LICENSE)
