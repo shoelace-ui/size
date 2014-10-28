@@ -1,24 +1,10 @@
 {
   "name": "shoelace-ui-size",
-  "version": "0.0.1",
-  "description": "Opaque stylus size mixin",
-  "main": "index.styl",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/shoelace-ui/size"
-  },
-  "keywords": [
-    "size",
-    "mixin",
-    "opaque"
-  ],
+  "version": "0.1.0",
+  "description": "Opaque `size` mixin",
+  "repository": "https://github.com/shoelace-ui/size.git",
+  "keywords": ["shoelace", "size"],
   "author": "Brannon Lucas",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/shoelace-ui/size/issues"
-  },
-  "homepage": "https://github.com/shoelace-ui/size"
+  "dependencies": {}
 }
